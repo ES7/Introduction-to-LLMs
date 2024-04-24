@@ -44,7 +44,7 @@ Here we will perform image segmentation and something called visual prompting. W
 ### 2.8. Multimodal Models
 Here we will work with multimodal models to perform image-text matching, image captioning, question-answering and zero-shot image classification using the open-source models Bleep from salesforce for the first three task and Clip from OpenAI for the last task.
 * **Image-Text Retrival :-** So if we pass an image along with a text it will compare how similar they both are.
-* **Image Captioning :-** 
-* **Visual QnA :-** 
-* **Zero-shot Image Classification :-** <br>
+* **Image Captioning :-** Passing an image and the model will give a description (caption) of the image.
+* **Visual QnA :-** Pass an image with a question, the model will answer the question in context on the image.
+* **Zero-shot Image Classification :-** Pass an image with a list of labels the model will choose the appropriate label from the list.<br>
 **Code :-** **`2.8. Multimodal_Models.ipynb`**
