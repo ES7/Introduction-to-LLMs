@@ -52,3 +52,5 @@ Here we will work with multimodal models to perform image-text matching, image c
 ### 2.9. Deployment
 Uptill now we know that different types of tasks can be achieved within the Hugging Face ecosystem. In most cases, for hosting demos and practical applications it will be nice to have our application running without leaving our computer on. In other words offload the whole compute requirements outside our local machine. Here we will leverage Hugging Face Spaces to deploy our demos and use them as an API.<br>
 **Code :-** **`2.9. Deployment.ipynb`**
+
+## 3. Prompt Engineering
