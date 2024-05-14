@@ -1,5 +1,5 @@
 # Introduction-to-LLMs
-In this repository I have explained the application of Large Language Models (LLMs). Starting from how to use LLMs in our own application till how to build a LLM.
+In this repository I have explained the application of Large Language Models (LLMs). Starting from how to use LLMs in our own application till how to build a LLM. Big thanks to Andrew Ng and the team of DeepLearning.AI for providing amazing courses on ML. https://learn.deeplearning.ai 
 
 ## 1. How to utilize a model via API
 Application Programming Interface (API) is a way to interact with a remote application programmatically. Instead of going to any website and typing the prompt we can do this via API. so in python we type the prompt and with this API we can send requests and receive a response from the model.<br>
