@@ -56,6 +56,6 @@ Uptill now we know that different types of tasks can be achieved within the Hugg
 ## 3. Prompt Engineering
 Prompt engineering is the process of designing and refining prompts to guide the output of large language models. It involves crafting prompts that elicit the desired responses and fine-tuning them iteratively to improve performance. Effective prompt engineering can significantly influence the quality and relevance of the model's outputs.<br>
 
-#### 3.1. Types of Prompt
+### 3.1. Types of Prompt
 In this note book you will se how to work with prompt and how to imporve the model's performance via different types of prompting techniques.<br>
 **Code :-** **`3.1. Types_of_Prompt.ipynb`**
