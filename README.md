@@ -71,4 +71,8 @@ In this notebook we will se how to use **natural language** to prompt a **zero-s
 
 ### 4.3. Prompt for Image Generation
 In this notebook we will see how we can prompt stable diffusion with **images** and **masks**. Additionally, we can tune some hyperparameters such as **guidance scale, strength** and **the number of inference step** to better the performance the diffusion process.<br>
-**Code :-** **`4.3. Prompt_for_Image_Generation.md`**
+**Code :-** **`4.3. Prompt_for_Image_Generation.ipynb`**
+
+### 4.4. Fine Tuning
+Diffusion models are powerful tools for image generation, but sometimes no amount of prompt engineering or hyperparameter optimization will yield the results we are looking for. When prompt engineering isn't enough. We may opt for fine-tuning instead. Fine-tuning is extremely resource intensive, but thankfully there is a method of fine-tuning stable diffusion that uses far fewer resources, called Dreambooth.<br>
+**Code :-** **`4.3. Fine_Tuning.ipynb`**
