@@ -68,3 +68,7 @@ In this notebook we will se how to prompt Segment Anything Model (SAM) for image
 ### 4.2. Prompt for Object Detection
 In this notebook we will se how to use **natural language** to prompt a **zero-shot object detection model OWL-ViT** where ViT stands for Vision Transformer. We will see how to create a pipeline that uses the output of this model as an input to SAM Model.<br>
 **Code :-** **`4.2. Prompt_for_Object_Detection.md`**
+
+### 4.3. Prompt for Image Generation
+In this notebook we will see how we can prompt stable diffusion with **images** and **masks**. Additionally, we can tune some hyperparameters such as **guidance scale, strength** and **the number of inference step** to better the performance the diffusion process.<br>
+**Code :-** **`4.3. Prompt_for_Image_Generation.md`**
