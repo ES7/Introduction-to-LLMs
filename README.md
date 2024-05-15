@@ -64,3 +64,7 @@ Visual prompting involves providing instructions with relevant image data to pre
 ### 4.1. Prompt for Image Segmentation
 In this notebook we will se how to prompt Segment Anything Model (SAM) for image segmentation task.<br>
 **Code :-** **`4.1. Prompt_for_Image_Segmentation.ipynb`**
+
+### 4.2. Prompt for Object Detection
+In this notebook we will se how to use **natural language** to prompt a **zero-shot object detection model OWL-ViT** where ViT stands for Vision Transformer. We will see how to create a pipeline that uses the output of this model as an input to SAM Model.<br>
+**Code :-** **`4.2. Prompt_for_Object_Detection.md`**
