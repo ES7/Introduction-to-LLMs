@@ -60,6 +60,10 @@ Prompt engineering is the process of designing and refining prompts to guide the
 In this notebook we will se how to prompt any LLMs by three basic methods.<br>
 **Code :-** **`3.1. Types_of_Prompt.ipynb`**
 
+### 3.2. Guidlines of Prompting
+In this notebook we will se how the two basic principles for prompting and limitations of LLMs.<br>
+**Code :-** **`3.2. Guidlines_for_Prompting.ipynb`**
+
 ## 4. Prompt Engineering for Vision Models
 In 2023, "prompt engineering" emerged in machine learning, extending beyond text prompts for Large Language Models (LLMs) to include images, audio, and video. This approach uses prompts as inputs that guide the model's output distribution, with data converted into numerical representations and processed into embeddings.
 Visual prompting involves providing instructions with relevant image data to pre-trained models for specific tasks, with prompts specifying tasks and being part of the total input data fed into the model.<br>
