@@ -55,7 +55,10 @@ Uptill now we know that different types of tasks can be achieved within the Hugg
 
 ## 3. Prompt Engineering
 Prompt engineering is the process of designing and refining prompts to guide the output of large language models. It involves crafting prompts that elicit the desired responses and fine-tuning them iteratively to improve performance. Effective prompt engineering can significantly influence the quality and relevance of the model's outputs.<br>
-**Code :-** **`3. Types_of_Prompt.ipynb`**
+
+### 3.1. Basics of Prompt Engineering
+In this notebook we will se how to prompt any LLMs by three basic methods.<br>
+**Code :-** **`3.1. Types_of_Prompt.ipynb`**
 
 ## 4. Prompt Engineering for Vision Models
 In 2023, "prompt engineering" emerged in machine learning, extending beyond text prompts for Large Language Models (LLMs) to include images, audio, and video. This approach uses prompts as inputs that guide the model's output distribution, with data converted into numerical representations and processed into embeddings.
