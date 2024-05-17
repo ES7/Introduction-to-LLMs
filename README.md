@@ -80,6 +80,10 @@ In this notebook I have explained how we can use single model on multiple tasks 
 In this notebook I have explained how we transform our text into someting another. LLMs are pretty good at this task for example language translation.<br>
 **Code :-** **`3.6. Transforming.ipynb`**
 
+### 3.7. Expanding
+In this notebook I have explained how we use a parameter **temperature** to change the response of the model.<br>
+**Code :-** **`3.7. Expanding.ipynb`**
+
 ## 4. Prompt Engineering for Vision Models
 In 2023, "prompt engineering" emerged in machine learning, extending beyond text prompts for Large Language Models (LLMs) to include images, audio, and video. This approach uses prompts as inputs that guide the model's output distribution, with data converted into numerical representations and processed into embeddings.
 Visual prompting involves providing instructions with relevant image data to pre-trained models for specific tasks, with prompts specifying tasks and being part of the total input data fed into the model.<br>
