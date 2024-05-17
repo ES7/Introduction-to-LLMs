@@ -62,7 +62,7 @@ In this notebook we will se how to prompt any LLMs by three basic methods.<br>
 
 ### 3.2. Guidlines of Prompting
 In this notebook we will se how the two basic principles for prompting and limitations of LLMs.<br>
-**Code :-** **`3.2. Guidlines_for_Prompting.md`**
+**Code :-** **`3.2. Guidlines_for_Prompting.ipynb`**
 
 ### 3.3. Iterative Prompt Development
 In this notebook we will se iterative process of prompting to achieve better results from LLMs.<br>
