@@ -69,7 +69,11 @@ In this notebook we will se iterative process of prompting to achieve better res
 **Code :-** **`3.3. Iterative_Prompt_Development.ipynb`**
 
 ### 3.4. Summarization Task
-In this notebook we will sehow to write prompts for summarization tasks.<br>
+In this notebook we will see how to write prompts for summarization tasks.<br>
+**Code :-** **`3.4. Prompt_for_Summarization_Task.ipynb`**
+
+### 3.5. MultiTasking
+In this notebook I have explained how we can use single model on multiple tasks just by changing the prompts.<br>
 **Code :-** **`3.4. Prompt_for_Summarization_Task.ipynb`**
 
 ## 4. Prompt Engineering for Vision Models
