@@ -74,7 +74,11 @@ In this notebook we will see how to write prompts for summarization tasks.<br>
 
 ### 3.5. MultiTasking
 In this notebook I have explained how we can use single model on multiple tasks just by changing the prompts.<br>
-**Code :-** **`3.4. Prompt_for_Summarization_Task.ipynb`**
+**Code :-** **`3.5. MultiTasking.ipynb`**
+
+### 3.6. Transforming
+In this notebook I have explained how we transform our text into someting another. LLMs are pretty good at this task for example language translation.<br>
+**Code :-** **`3.6. Transforming.ipynb`**
 
 ## 4. Prompt Engineering for Vision Models
 In 2023, "prompt engineering" emerged in machine learning, extending beyond text prompts for Large Language Models (LLMs) to include images, audio, and video. This approach uses prompts as inputs that guide the model's output distribution, with data converted into numerical representations and processed into embeddings.
