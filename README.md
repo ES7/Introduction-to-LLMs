@@ -68,6 +68,10 @@ In this notebook we will se how the two basic principles for prompting and limit
 In this notebook we will se iterative process of prompting to achieve better results from LLMs.<br>
 **Code :-** **`3.3. Iterative_Prompt_Development.ipynb`**
 
+### 3.4. Summarization Task
+In this notebook we will sehow to write prompts for summarization tasks.<br>
+**Code :-** **`3.4. Prompt_for_Summarization_Task.ipynb`**
+
 ## 4. Prompt Engineering for Vision Models
 In 2023, "prompt engineering" emerged in machine learning, extending beyond text prompts for Large Language Models (LLMs) to include images, audio, and video. This approach uses prompts as inputs that guide the model's output distribution, with data converted into numerical representations and processed into embeddings.
 Visual prompting involves providing instructions with relevant image data to pre-trained models for specific tasks, with prompts specifying tasks and being part of the total input data fed into the model.<br>
