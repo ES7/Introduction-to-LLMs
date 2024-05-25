@@ -107,3 +107,6 @@ In this notebook we will see how we can prompt stable diffusion with **images** 
 ### 4.4. Fine Tuning
 Diffusion models are powerful tools for image generation, but sometimes no amount of prompt engineering or hyperparameter optimization will yield the results we are looking for. When prompt engineering isn't enough. We may opt for fine-tuning instead. Fine-tuning is extremely resource intensive, but thankfully there is a method of fine-tuning stable diffusion that uses far fewer resources, called Dreambooth.<br>
 **Code :-** **`4.3. Fine_Tuning.ipynb`**
+
+## 5. Fine Tunning
+Writing a prompt is good to give a direction to the LLM but that won't be enough. Fine Tuning helps LLMs to work well on those data that it has not seen or not been trained on. With the help of fine tuning we can make enhance the LLM performance on our own private data.
