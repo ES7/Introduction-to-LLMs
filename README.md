@@ -109,4 +109,4 @@ Diffusion models are powerful tools for image generation, but sometimes no amoun
 **Code :-** **`4.3. Fine_Tuning.ipynb`**
 
 ## 5. Fine Tuning
-Writing a prompt is good to give a direction to the LLM but that won't be enough. Fine Tuning helps LLMs to work well on those data that it has not seen or not been trained on. With the help of fine tuning we can make enhance the LLM performance on our own private data.
+Writing a prompt is good to give a direction to the LLM but that won't be enough. Fine Tuning helps LLMs to work well on those data that it has not seen or not been trained on. With the help of fine tuning we can enhance the performance of LLMs on our own private data.
