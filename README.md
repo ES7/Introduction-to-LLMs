@@ -114,3 +114,7 @@ Writing a prompt is good to give a direction to the LLM but that won't be enough
 ### 5.1. Comparision
 In this notebook we will see what is finetuning, why it is important and a comparision between finetuned model and non-finetuned model.<br>
 **Code :-** **`5.1. Comparision.ipynb`**
+
+### 5.2. Process of Finetuning
+In this notebook we will see what the difference between pre-trianing and finetuning and how to prepare the data for finetuning.<br>
+**Code :-** **`5.2. Where_Finetuning_Fits.ipynb`**
