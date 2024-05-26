@@ -119,6 +119,10 @@ In this notebook we will see what is finetuning, why it is important and a compa
 In this notebook we will see what the difference between pre-trianing and finetuning and how to prepare the data for finetuning.<br>
 **Code :-** **`5.2. Where_Finetuning_Fits.ipynb`**
 
-### 5.3. Data Perparation
+### 5.3. Instruct Finetuning
+In this notebook we will see how to perform instruct finetuning.<br>
+**Code :-** **`5.3. Instruction_Finetuning.ipynb`**
+
+### 5.4. Data Perparation
 In this notebook we will see how to prepare the data, what are the important factors to keep in mind while collecting the data.<br>
-**Code :-** **`5.3. Data_Preparation.ipynb`**
+**Code :-** **`5.4. Data_Preparation.ipynb`**
