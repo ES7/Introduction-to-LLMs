@@ -126,3 +126,11 @@ In this notebook we will see how to perform instruct finetuning.<br>
 ### 5.4. Data Perparation
 In this notebook we will see how to prepare the data, what are the important factors to keep in mind while collecting the data.<br>
 **Code :-** **`5.4. Data_Preparation.ipynb`**
+
+### 5.5. Training
+In this notebook we will see how to train an LLM on our dataset.<br>
+**Code :-** **`5.5. Training.ipynb`**
+
+### 5.6. Evaluation
+In this notebook we will see how to evaluate our trained LLM on benchmarks.<br>
+**Code :-** **`5.6. Evaluation.ipynb`**
