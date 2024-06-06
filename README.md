@@ -134,3 +134,10 @@ In this notebook we will see how to train an LLM on our dataset.<br>
 ### 5.6. Evaluation
 In this notebook we will see how to evaluate our trained LLM on benchmarks.<br>
 **Code :-** **`5.6. Evaluation.ipynb`**
+
+## 6. Reinforcement Learning with Human Feedback (RLHF)
+It is a technique used to improve ML models by incorporating feedback from human evaluators or labellers. The process involves training a model using reinforcement learning algorithms, where the reward signal is derived from human feedback on the model's outputs. This approach helps align the model's behavior with human preferences and ethical considerations, enhancing its performance and reliability in real-world applications.
+
+### 6.1 Dataset
+In this notebook we will see what is RLHF and how to create dataset for it.
+**Code :-** **`6.1. Dataset_for_RLHF.ipynb`**
