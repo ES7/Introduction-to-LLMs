@@ -141,3 +141,7 @@ It is a technique used to improve ML models by incorporating feedback from human
 ### 6.1 Dataset
 In this notebook we will see what is RLHF and how to create dataset for it.<br>
 **Code :-** **`6.1. Dataset_for_RLHF.ipynb`**
+
+### 6.2 Tuning the LLM
+In this notebook we will see how can we use the dataset to tune the LLM via (VertexAI) pipeline.<br>
+**Code :-** **`6.2. Tune_LLM.ipynb`**
