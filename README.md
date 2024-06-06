@@ -149,3 +149,7 @@ In this notebook we will see how can we use the dataset to tune the LLM via (Ver
 ### 6.3 Evaluate the Tuned Model
 In this notebook we will see how to evaluate the tuned LLM.<br>
 **Code :-** **`6.3. Evaluation.ipynb`**
+
+### 6.4 Google Cloud Setup
+In this notebook we will see how to setup Google Cloud to use Vertex AI.<br>
+**Code :-** **`6.4. Google_Cloud_Setup.ipynb`**
