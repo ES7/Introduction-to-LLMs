@@ -145,3 +145,7 @@ In this notebook we will see what is RLHF and how to create dataset for it.<br>
 ### 6.2 Tuning the LLM
 In this notebook we will see how can we use the dataset to tune the LLM via (VertexAI) pipeline.<br>
 **Code :-** **`6.2. Tune_LLM.ipynb`**
+
+### 6.3 Evaluate the Tuned Model
+In this notebook we will see how to evaluate the tuned LLM.<br>
+**Code :-** **`6.3. Evaluation.ipynb`**
