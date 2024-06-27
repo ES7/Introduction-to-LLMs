@@ -157,3 +157,8 @@ In this notebook we will see how to evaluate the tuned LLM.<br>
 ### 6.4 Google Cloud Setup
 In this notebook we will see how to setup Google Cloud to use Vertex AI.<br>
 **Code :-** **`6.4. Google_Cloud_Setup.ipynb`**
+
+## 7. Build LLMs from Scratch
+- [Transformer from Scratch](https://github.com/ES7/Transformer-from-Scratch)
+- [LLaMA from Scratch](https://github.com/ES7/LLaMA-from-Scratch)
+- [GPT from Scratch](https://github.com/ES7/GPT-from-Scratch)
