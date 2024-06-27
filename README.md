@@ -49,9 +49,13 @@ Here we will work with multimodal models to perform image-text matching, image c
 * **Zero-shot Image Classification :-** Pass an image with a list of labels the model will choose the appropriate label from the list.<br>
 **Code :-** **`2.8. Multimodal_Models.ipynb`**
 
-### 2.9. Deployment
+### 2.9. Image Retrieval
+Here we will se how to perform image-to-text matching or image captioning using HF models.<br>
+**Code :-** **`2.9. Image_Retrieval.ipynb`**
+
+### 2.10. Deployment
 Uptill now we know that different types of tasks can be achieved within the Hugging Face ecosystem. In most cases, for hosting demos and practical applications it will be nice to have our application running without leaving our computer on. In other words offload the whole compute requirements outside our local machine. Here we will leverage Hugging Face Spaces to deploy our demos and use them as an API.<br>
-**Code :-** **`2.9. Deployment.ipynb`**
+**Code :-** **`2.10. Deployment.ipynb`**
 
 ## 3. Prompt Engineering (ChatGPT)
 Prompt engineering is the process of designing and refining prompts to guide the output of large language models. It involves crafting prompts that elicit the desired responses and fine-tuning them iteratively to improve performance. Effective prompt engineering can significantly influence the quality and relevance of the model's outputs.<br>
