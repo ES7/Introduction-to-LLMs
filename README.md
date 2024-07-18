@@ -167,15 +167,19 @@ In this notebook we will see why pre-training is used instead of prompt engineer
 
 ### 7.2 Data Preparation
 In this notebook we will see how to prepare dataset for pre-training. The prepared dataset is **`'preprocessed_dataset.parquet'`**<br>
-**Code :-** **`7.1. Data_Preparation.ipynb`**
+**Code :-** **`7.2. Data_Preparation.ipynb`**
 
 ### 7.3 Data Packing
 In this notebook we will see further processing of data by performing tokenization and packing. The processed dataset is **`'package_pretrain_dataset.parquet'`**<br>
-**Code :-** **`7.1. Data_Packing.ipynb`**
+**Code :-** **`7.3. Data_Packing.ipynb`**
 
 ### 7.4 Model Config
 In this notebook we will see how to configure and initialize model for training. The saved model is **`'model.safetensors'`**<br>
-**Code :-** **`7.1. Model_Config.ipynb`**
+**Code :-** **`7.4. Model_Config.ipynb`**
+
+### 7.5 Model Training
+In this notebook we will see how to train the model using the processed dataset.<br>
+**Code :-** **`7.5. Model_Training.ipynb`**
 
 ## 8. Build LLMs from Scratch
 - [Transformer from Scratch](https://github.com/ES7/Transformer-from-Scratch)
