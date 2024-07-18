@@ -158,7 +158,14 @@ In this notebook we will see how to evaluate the tuned LLM.<br>
 In this notebook we will see how to setup Google Cloud to use Vertex AI.<br>
 **Code :-** **`6.4. Google_Cloud_Setup.ipynb`**
 
-## 7. Build LLMs from Scratch
+## 7. Pre-Training LLMs
+Pre-training means taking a large model and training it on a large corpus of text via supervised learning. The output of pre-training is known as the base model. Training a large model from scratch is computationally expensive, requires a large amount of GPUs, and runs till weeks and months. That's why most developers use pre-training from scratch and when they take an existing model and use prompting or sometimes fine tuning to adapt their task.
+
+### 7.1 Usecase
+In this notebook we will see why pre-training is used instead of prompt engineering or fine-tuning.<br>
+**Code :-** **`7.1. Usecase.ipynb`**
+
+## 8. Build LLMs from Scratch
 - [Transformer from Scratch](https://github.com/ES7/Transformer-from-Scratch)
 - [LLaMA from Scratch](https://github.com/ES7/LLaMA-from-Scratch)
 - [GPT from Scratch](https://github.com/ES7/GPT-from-Scratch)
