@@ -165,6 +165,10 @@ Pre-training means taking a large model and training it on a large corpus of tex
 In this notebook we will see why pre-training is used instead of prompt engineering or fine-tuning.<br>
 **Code :-** **`7.1. Usecase.ipynb`**
 
+### 7.2 Data Preparation
+In this notebook we will see how to prepare dataset for pre-training. The prepared dataset is **`'preprocessed_dataset.parquet'`**<br>
+**Code :-** **`7.1. Data_Preparation.ipynb`**
+
 ## 8. Build LLMs from Scratch
 - [Transformer from Scratch](https://github.com/ES7/Transformer-from-Scratch)
 - [LLaMA from Scratch](https://github.com/ES7/LLaMA-from-Scratch)
