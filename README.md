@@ -169,6 +169,10 @@ In this notebook we will see why pre-training is used instead of prompt engineer
 In this notebook we will see how to prepare dataset for pre-training. The prepared dataset is **`'preprocessed_dataset.parquet'`**<br>
 **Code :-** **`7.1. Data_Preparation.ipynb`**
 
+### 7.3 Data Packing
+In this notebook we will see further processing of data by performing tokenization and packing. The processed dataset is **`'package_pretrain_dataset.parquet'`**<br>
+**Code :-** **`7.1. Data_Packing.ipynb`**
+
 ## 8. Build LLMs from Scratch
 - [Transformer from Scratch](https://github.com/ES7/Transformer-from-Scratch)
 - [LLaMA from Scratch](https://github.com/ES7/LLaMA-from-Scratch)
